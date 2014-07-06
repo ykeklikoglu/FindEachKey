@@ -1,0 +1,20 @@
+﻿Build started 6.7.2014 13:41:46.
+     1>Project "C:\Users\Yahya Keklikoğlu\Desktop\Eski PC\Masaüstü Kısayol İçeriği\Masaüstü büyük projeler\C calısmaları\c++\Tüm kelimeleri bulma\tamamen kelimeler\tamamen kelimeler.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D "WIN32" /D _DEBUG /D _CONSOLE /D "_UNICODE" /D "UNICODE" /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt kelime.cpp
+         kelime.cpp
+     1>c:\users\yahya keklikoğlu\desktop\eski pc\masaüstü kısayol İçeriği\masaüstü büyük projeler\c calısmaları\c++\tüm kelimeleri bulma\tamamen kelimeler\kelime.cpp(25): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\yahya keklikoğlu\desktop\eski pc\masaüstü kısayol İçeriği\masaüstü büyük projeler\c calısmaları\c++\tüm kelimeleri bulma\tamamen kelimeler\kelime.cpp(120): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\yahya keklikoğlu\desktop\eski pc\masaüstü kısayol İçeriği\masaüstü büyük projeler\c calısmaları\c++\tüm kelimeleri bulma\tamamen kelimeler\kelime.cpp(159): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\yahya keklikoğlu\desktop\eski pc\masaüstü kısayol İçeriği\masaüstü büyük projeler\c calısmaları\c++\tüm kelimeleri bulma\tamamen kelimeler\kelime.cpp(157): warning C4101: 'kelimem' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Yahya Keklikoğlu\Desktop\Eski PC\Masaüstü Kısayol İçeriği\Masaüstü büyük projeler\C calısmaları\c++\Tüm kelimeleri bulma\Debug\tamamen kelimeler.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Yahya Keklikoğlu\Desktop\Eski PC\Masaüstü Kısayol İçeriği\Masaüstü büyük projeler\C calısmaları\c++\Tüm kelimeleri bulma\Debug\tamamen kelimeler.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Yahya Keklikoğlu\Desktop\Eski PC\Masaüstü Kısayol İçeriği\Masaüstü büyük projeler\C calısmaları\c++\Tüm kelimeleri bulma\Debug\tamamen kelimeler.lib" /MACHINE:X86 Debug\kelime.obj
+         tamamen kelimeler.vcxproj -> C:\Users\Yahya Keklikoğlu\Desktop\Eski PC\Masaüstü Kısayol İçeriği\Masaüstü büyük projeler\C calısmaları\c++\Tüm kelimeleri bulma\Debug\tamamen kelimeler.exe
+     1>Done Building Project "C:\Users\Yahya Keklikoğlu\Desktop\Eski PC\Masaüstü Kısayol İçeriği\Masaüstü büyük projeler\C calısmaları\c++\Tüm kelimeleri bulma\tamamen kelimeler\tamamen kelimeler.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.50
